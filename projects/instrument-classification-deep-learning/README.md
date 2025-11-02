@@ -1,6 +1,7 @@
 # Musical Instrument Classification Using Deep Learning
 
-A MATLAB project focused on the **classification of musical instruments** using **transfer learning** and the pre-trained **AlexNet** convolutional neural network. The task involved generating a custom dataset of spectrograms from short audio fragments and training a modified AlexNet model to recognize instrument type based on timbre features.
+A MATLAB project focused on the **classification of musical instruments** using **transfer learning** and the pre-trained **AlexNet** convolutional neural network. The task involved generating a custom dataset of spectrograms from short audio fragments and training a modified AlexNet model to recognize instrument type based on timbre features. > **Note:** This project represents an initial attempt at instrument classification using deep learning. The approach is not optimal but demonstrates the workflow under significant time constraints.
+
 
 ---
 
